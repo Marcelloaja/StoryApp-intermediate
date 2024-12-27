@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TravelersNotes</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">You can add your notes here, and it will be automatically saved, and you can view it later.</string>
+    <string name="title_welcome_page">Welcome to TravelersNotes</string>
+    <string name="title_signup_page">Please fill up your data first</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please fill up your data first</string>
+    <string name="title_login_page">Ready for take some notes?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Welcome To TravelersNotes.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+
+    <string name="image_description">Logout</string>
+    <string name="title_card_item">Marcello Ilham</string>
+    <string name="description_card_item">Marcello dari MD-44</string>
+    <string name="upload_camera">Camera</string>"
+    <string name="upload_gallery">Gallery</string>"
+    <string name="upload_item">Upload</string>"
+    <string name="description_upload">Please leave a note in here!</string>
+    <string name="error">Please put a valid format image</string>
+    <string name="error_image_not_selected">Please select an image to upload.</string>
+    <string name="error_description_not_provided">Please provide a description for the image.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="retry">Coba lagi</string>
+</resources>
